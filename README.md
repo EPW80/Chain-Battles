@@ -8,9 +8,7 @@ Not storing your metadata on the blockchain will make interacting with it from y
 
 If we want to update our metadata directly from our smart contract we'll need to store it on-chain, but what about gas fees?
 
-Luckily, L2 chains such as Polygon are here to help, drastically reducing Gas costs, and introducing a number of advantages that allow developers to expand the functionalities of their applications.
-
-In this tutorial, you're going to learn how to create the basics of a blockchain game, develop a fully dynamic NFT with on-chain metadata that changes based on your interactions with it, and deploy it on Polygon Mumbai to lower gas fees.
+Luckily, L2 chains such as Polygon are here to help, drastically reducing Gas costs, and introducing a number of advantages that allow developers to expand the functionalities of their applications. Develop a fully dynamic NFT with on-chain metadata that changes based on your interactions with it, and deploy it on Polygon Mumbai to lower gas fees.
 
 Try running some of the following tasks:
 
